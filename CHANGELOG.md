@@ -7,6 +7,20 @@
 
 * **AUTO-288:** preserve raw profile paths during token shimming ([#5547](https://github.com/browserless/browserless/issues/5547)) ([2222d9f](https://github.com/browserless/browserless/commit/2222d9f5c3e758f782dc066e5505ddad198ec2ee))
 
+<!-- browser-versions:start -->
+
+### Supported Libraries & Browsers
+
+- puppeteer-core: `25.7.0`
+- playwright-core: `1.62.1`, `1.61.1`, `1.60.0`, `1.59.1`, and `1.58.2`.
+- Chromium: `151.0.7922.34`
+- Chrome: `151.0.7922.169` (amd64 only)
+- Firefox: `153.0`
+- Webkit: `26.5`
+- Edge: `151.0.4129.93` (amd64 only)
+
+<!-- browser-versions:end -->
+
 ## [2.56.0](https://github.com/browserless/browserless/compare/v2.55.4...v2.56.0) (2026-08-17)
 
 

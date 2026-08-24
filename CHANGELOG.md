@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.56.1](https://github.com/browserless/browserless/compare/v2.56.0...v2.56.1) (2026-08-24)
+
+
+### Bug Fixes
+
+* **AUTO-288:** preserve raw profile paths during token shimming ([#5547](https://github.com/browserless/browserless/issues/5547)) ([2222d9f](https://github.com/browserless/browserless/commit/2222d9f5c3e758f782dc066e5505ddad198ec2ee))
+
 ## [2.56.0](https://github.com/browserless/browserless/compare/v2.55.4...v2.56.0) (2026-08-17)
 
 
